@@ -1,0 +1,72 @@
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.exe.config
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.exe
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.pdb
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.csprojResolveAssemblyReference.cache
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.Form1.resources
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.Properties.Resources.resources
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.csproj.GenerateResource.Cache
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.exe
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.pdb
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.FirstCustomControl.resources
+C:\Users\Niraj Bokati\Desktop\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.mysecondusercontrol.resources
+F:\Broadway\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.exe.config
+F:\Broadway\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.exe
+F:\Broadway\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.pdb
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.csprojResolveAssemblyReference.cache
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.FirstCustomControl.resources
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.Form1.resources
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.mysecondusercontrol.resources
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.Properties.Resources.resources
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.csproj.GenerateResource.Cache
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.exe
+F:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.pdb
+C:\Broadway\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.exe.config
+C:\Broadway\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.exe
+C:\Broadway\Dot NET\Restuarent\Restuarent\bin\Debug\Restuarent.pdb
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.csprojResolveAssemblyReference.cache
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.FirstCustomControl.resources
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.Form1.resources
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.mysecondusercontrol.resources
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.Properties.Resources.resources
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.csproj.GenerateResource.Cache
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.exe
+C:\Broadway\Dot NET\Restuarent\Restuarent\obj\Debug\Restuarent.pdb
+C:\Users\Me\Music\Restuarent\Restuarent\bin\Debug\Restuarent.exe.config
+C:\Users\Me\Music\Restuarent\Restuarent\bin\Debug\Restuarent.exe
+C:\Users\Me\Music\Restuarent\Restuarent\bin\Debug\Restuarent.pdb
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.csprojResolveAssemblyReference.cache
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.Form1.resources
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.Properties.Resources.resources
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.csproj.GenerateResource.Cache
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.exe
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.pdb
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.AddMenuName.resources
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.ItemMenuDetails.resources
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.MainForm.resources
+C:\Users\Me\Music\Restuarent\Restuarent\obj\Debug\Restuarent.ViewMenuItemDetail.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\bin\Debug\Restuarent.exe.config
+C:\Users\Me\Music\Firstr Version POS\Restuarent\bin\Debug\Restuarent.exe
+C:\Users\Me\Music\Firstr Version POS\Restuarent\bin\Debug\Restuarent.pdb
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.csprojResolveAssemblyReference.cache
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.AddMenuName.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.Form1.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.ItemMenuDetails.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.MainForm.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.Properties.Resources.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.ViewMenuItemDetail.resources
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.csproj.GenerateResource.Cache
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.exe
+C:\Users\Me\Music\Firstr Version POS\Restuarent\obj\Debug\Restuarent.pdb
+C:\Users\Me\Music\Second\Restuarent\bin\Debug\Restuarent.exe.config
+C:\Users\Me\Music\Second\Restuarent\bin\Debug\Restuarent.exe
+C:\Users\Me\Music\Second\Restuarent\bin\Debug\Restuarent.pdb
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.csprojResolveAssemblyReference.cache
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.AddMenuName.resources
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.Form1.resources
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.ItemMenuDetails.resources
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.MainForm.resources
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.Properties.Resources.resources
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.ViewMenuItemDetail.resources
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.csproj.GenerateResource.Cache
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.exe
+C:\Users\Me\Music\Second\Restuarent\obj\Debug\Restuarent.pdb
